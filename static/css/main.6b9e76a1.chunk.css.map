@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,gBACE,iBAAkB,CAClB,iBAAkB,CAClB,wBAAyB,CACzB,wBACF","file":"main.6b9e76a1.chunk.css","sourcesContent":[".App.ui.segment {\n  padding: 20px 80px;\n  text-align: center;\n  background-color: #1b1c1d;\n  color: rgba(255,255,255,0.9);\n}\n"]}
